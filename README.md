@@ -64,7 +64,9 @@ $ git remote add origin https://github.com/nauval66/latihanVCS.git
 ![Screenshot (5)](https://user-images.githubusercontent.com/73052971/96363356-f2ea3c80-115d-11eb-8c75-8b4fe597c57e.png)
 
 20.Selesai anda sudah berhasil menginstall git dan menggunakan git dan github
-![Screenshot (5)](https://user-images.githubusercontent.com/73052971/96363356-f2ea3c80-115d-11eb-8c75-8b4fe597c57e.png)
+
+![Screenshot (13)](https://user-images.githubusercontent.com/73052971/96363744-43fb3000-1160-11eb-8cd9-f30c5add7c2b.png)
+
 
 
 
